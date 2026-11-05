@@ -83,5 +83,5 @@ JSON-LD (`TravelAgency`, `TouristTrip`, `Article`, `BreadcrumbList`, `FAQPage`);
 - Real copy pass on tours / about / blog once the voice is set.
 - Visual identity pass once the brand is locked.
 
-> `git` is not installed on this machine. Install it before deploying to Vercel
-> (`git init`, commit, push to a remote). Build + typecheck are green.
+> The repo is at https://github.com/unsterblichergeist84-lang/moroccowithus (branch `main`).
+> Import it into Vercel to deploy. Build + typecheck are green.

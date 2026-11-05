@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-Next.js 14 (App Router) + TypeScript + Tailwind marketing site for a private Morocco desert-tour operator. No CMS, no database, no test suite — content lives in typed files in the repo. Deploy target is Vercel. `git` is not installed on this machine and the directory is not a repo.
+Next.js 14 (App Router) + TypeScript + Tailwind marketing site for a private Morocco desert-tour operator. No CMS, no database, no test suite — content lives in typed files in the repo. Deploy target is Vercel. The repo lives at `https://github.com/unsterblichergeist84-lang/moroccowithus` (branch `main`).
 
 ## Commands
 
@@ -40,4 +40,4 @@ There is no test runner; `typecheck`, `lint` and `build` are the verification st
 
 ## Launch
 
-The pre-launch checklist (placeholder email/WhatsApp/Instagram, testimonials, `/terms` deposit terms, optional `GOOGLE_SITE_VERIFICATION`, installing git before the Vercel deploy) is in `README.md` under "Before launch".
+The pre-launch checklist (placeholder email/WhatsApp/Instagram, testimonials, `/terms` deposit terms, optional `GOOGLE_SITE_VERIFICATION`, importing the GitHub repo into Vercel) is in `README.md` under "Before launch".
